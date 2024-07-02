@@ -1,6 +1,6 @@
-# Foobar
+# Weather's app
 
-Foobar is a Python library for dealing with word pluralization.
+A basic javascript app to show the current weather of that place.
 
 ## Installation
 
